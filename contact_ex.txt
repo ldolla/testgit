@@ -5,3 +5,4 @@ Name: Laurent Dolla
 email address: dolla@oma.be
 email: dolla@yahoo
 Tel: 00285082057
+job description : research assistant
